@@ -1,19 +1,20 @@
 <div align="center">
 
-<br><br>
+<br>
 
 # 👋 Hi, I'm
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=KIRUPAKARAN+S;Frontend+Developer;B.E.+CSE+Student;Java+%7C+JavaScript+%7C+React.js"
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=KIRUPAKARAN+S;Frontend+Developer;B.E.+CSE+Student;Java+%7C+JavaScript+%7C+React.js;Digital+Marketing+Enthusiast"
 alt="Typing SVG" />
 
-### 🚀 Frontend Developer | B.E. CSE Student
+### 🚀 Frontend Developer | B.E. CSE Student | Digital Marketing Enthusiast
 
 Computer Science Engineering student passionate about building
 responsive, user-friendly and practical web applications.
 
-Currently focused on **Frontend Development, Java, JavaScript and React.js**
-while preparing for software development opportunities.
+Currently focused on **Frontend Development, JavaScript, React.js and Java**
+while developing my problem-solving skills and exploring
+**Digital Marketing**.
 
 <br>
 
@@ -29,7 +30,7 @@ while preparing for software development opportunities.
 <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/kirupa-karan">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -40,14 +41,17 @@ while preparing for software development opportunities.
 # 👨‍💻 About Me
 
 - 🎓 **B.E. Computer Science and Engineering — 2023–2027**
+- 🏫 **Dr. N.G.P Institute of Technology, Coimbatore**
+- 📊 **CGPA: 7.11**
 - 💻 Interested in **Frontend Development**
-- 🌱 Currently improving **Java, JavaScript and React.js**
+- ⚛️ Currently improving **JavaScript and React.js**
+- ☕ Learning **Java**
 - 🐍 Python Fundamentals & Machine Learning Basics
-- 🧠 Interested in building real-world web applications
-- 🧩 Practicing Data Structures & Algorithms
-- 💡 Improving problem-solving and logical thinking
-- 📍 Coimbatore, India
-- 🚀 Always learning, building and improving
+- 🗄️ Working with **MySQL**
+- 📢 Interested in **Digital Marketing & SEO**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🧩 Improving debugging and logical thinking
+- 🚀 Passionate about building practical web applications
 
 ---
 
@@ -63,7 +67,7 @@ while preparing for software development opportunities.
 
 ---
 
-## ☕ Programming
+## ☕ Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python" />
@@ -76,41 +80,187 @@ while preparing for software development opportunities.
 ## 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-**MySQL | MongoDB | Supabase**
+**MySQL**
 
 ---
 
-## ⚙️ Backend
+## 🤖 Machine Learning
+
+**Python | Pandas | NumPy | Scikit-learn | Matplotlib**
+
+- Machine Learning Fundamentals
+- Data Preprocessing
+- Feature Selection
+- Model Training
+- Decision Tree
+- Logistic Regression
+
+---
+
+## 📢 Digital Marketing
+
+- Google Ads
+- Meta Ads
+- Search Engine Optimization (SEO)
+- Digital Content & Audience Engagement
+
+---
+
+## 🔧 Tools & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-**Node.js | Express.js | PHP**
+**Git | GitHub | VS Code**
 
 ---
 
-## 🔧 Tools
+## 🧠 Core Technical Strengths
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+`Frontend Development`
 
-**Git | GitHub | VS Code | Figma**
+`Web Application Development`
 
----
+`Debugging`
 
-## 🧠 Other Skills
+`Logical Thinking`
 
-`Machine Learning Basics`  
-`Debugging`  
-`Logical Thinking`  
-`Problem Solving`  
-`Data Structures`  
+`Problem Solving`
+
+`Data Structures`
+
 `Algorithms`
+
+`Machine Learning Basics`
+
+---
+
+# 💼 Professional Experience
+
+## 🤖 Machine Learning Intern
+
+### App Innovation Technology — Coimbatore, India
+
+**02 June 2025 – 20 June 2025**
+
+During my internship, I worked with real-world healthcare datasets
+to develop a **Heart Disease Prediction system** using machine
+learning techniques.
+
+### 🔹 Responsibilities
+
+- Worked with healthcare datasets for machine learning analysis
+- Performed data preprocessing and feature selection
+- Used **Python, Pandas, NumPy and Scikit-learn**
+- Implemented **Decision Tree and Logistic Regression**
+- Evaluated machine learning models
+- Analyzed patient health risk factors
+
+---
+
+# 🚀 Academic Projects
+
+## 🛒 QR Code-Based Intelligent In-Store Shopping Assistant
+
+### ⚛️ React.js | Node.js | Supabase | HTML | CSS | QR Code
+
+A QR-based web application designed to assist customers during
+in-store shopping by providing important product information.
+
+### ✨ Features
+
+- 📱 QR-based product access
+- 🛍️ Product information
+- 📍 Shelf location
+- 📦 Product availability
+- ⚛️ React.js frontend
+- 🟢 Node.js integration
+- 🗄️ Supabase integration
+- 📱 Responsive interface
+
+### 🎯 Project Objective
+
+Build a QR-based system for effective in-store shopping management
+and assistance while allowing customers to quickly access
+product information, shelf location and availability.
+
+---
+
+## 📢 Digital Notice Board
+
+### 🌐 Bootstrap | PHP | MySQL
+
+A web-based platform designed for posting and managing
+institutional announcements.
+
+### ✨ Features
+
+- 📢 Digital announcements
+- 👨‍💼 Admin controls
+- 📝 Notice publishing
+- 👨‍🎓 Student access
+- 🗄️ MySQL database
+- 📱 Responsive UI
+- ⚡ Efficient content management
+
+### 🎯 Project Objective
+
+Develop a digital platform that simplifies the publishing and
+management of institutional notices.
+
+---
+
+## 🛍️ E-Commerce Website
+
+### 🌐 HTML | CSS | JavaScript | PHP | MySQL
+
+A dynamic online shopping platform developed with essential
+e-commerce functionalities.
+
+### ✨ Features
+
+- 👤 User login
+- 🛒 Shopping cart
+- 📦 Order management
+- 🛍️ Product management
+- 🗄️ MySQL database
+- 🔐 User and transaction management
+
+### 🎯 Project Objective
+
+Develop a dynamic online shopping platform with login,
+cart and order management features while using MySQL
+for database management.
+
+---
+
+# 🤖 Machine Learning Project
+
+## ❤️ Heart Disease Prediction
+
+### 🐍 Python | Pandas | NumPy | Scikit-learn | Matplotlib
+
+A machine learning project focused on predicting the risk of
+heart disease using healthcare datasets.
+
+### ✨ Features
+
+- 📊 Healthcare dataset analysis
+- 🧹 Data preprocessing
+- 🔍 Feature selection
+- 🌳 Decision Tree classification
+- 📈 Logistic Regression
+- 📊 Model evaluation
+- 🧠 Patient health risk analysis
+
+### 🎯 Objective
+
+Develop a machine learning model capable of classifying
+heart disease risk using healthcare data.
 
 ---
 
@@ -140,7 +290,7 @@ alt="LeetCode Statistics"/>
 
 ---
 
-# 📊 LeetCode Contribution Activity
+# 📊 GitHub Contribution Activity
 
 <div align="center">
 
@@ -151,141 +301,34 @@ alt="GitHub Contribution Snake Animation"/>
 
 ---
 
-# 🚀 Projects
+# 🎓 Education
 
-## 🛒 QR Code-Based Intelligent In-Store Shopping Assistant
+### 🎓 B.E. Computer Science and Engineering
 
-### ⚛️ React.js | Node.js | Supabase | HTML | CSS
+**Dr. N.G.P Institute of Technology, Coimbatore**
 
-A QR-based web application designed to assist customers during
-in-store shopping by providing product details, shelf location,
-and product availability.
+**2023 – 2027**
 
-### ✨ Features
-
-- 📱 QR-based product access
-- 🛍️ Product information
-- 📍 Shelf location
-- 📦 Product availability
-- ⚡ React.js frontend
-- 🗄️ Supabase integration
-- 📱 Responsive interface
-
-🔗 **Repository:**  
-https://github.com/kirupakaranselvaraj/Store-Shopping-Assistant
+**CGPA: 7.11**
 
 ---
 
-## 📢 Digital Notice Board
+### 🏫 Higher Secondary Certificate
 
-### 🎨 Bootstrap | PHP | MySQL
+**SVGV Matriculation Higher Secondary School**
 
-A web-based digital notice board that enables administrators
-to publish and manage announcements while allowing users
-to access important notices online.
+**2023**
 
-### ✨ Features
-
-- 📢 Digital announcements
-- 👨‍💼 Admin management
-- 👨‍🎓 Student access
-- 📝 Notice publishing
-- 🗄️ MySQL database
-- 📱 Responsive interface
-
-🔗 **Repository:**  
-https://github.com/kirupakaranselvaraj/SmartCampus-Digital-notice-board
+**Percentage: 62%**
 
 ---
 
-## 🚗 Car Rental System
+# 📚 Workshops & Participation
 
-### 🌐 HTML | CSS | JavaScript | PHP | MySQL
-
-A web-based car rental system that allows users to browse
-available cars, manage rental bookings, and handle customer
-and vehicle information efficiently.
-
-### ✨ Features
-
-- 🚘 Vehicle browsing
-- 📅 Rental booking
-- 👤 Customer management
-- 🚗 Vehicle management
-- 📊 Rental information
-- 🗄️ MySQL database
-- 👨‍💼 Admin management
-
-🔗 **Repository:**  
-https://github.com/kirupakaranselvaraj/Car-Rental-System
-
----
-
-## 🔗 URL Shortener Web Application
-
-### 🌐 HTML | CSS | JavaScript | PHP | MySQL
-
-A web application that converts long URLs into short,
-shareable links with a simple and user-friendly interface.
-
-### ✨ Features
-
-- 🔗 URL shortening
-- 📋 Easy link sharing
-- ⚡ Simple interface
-- 🌐 Web-based application
-- 🗄️ Database integration
-
-🔗 **Repository:**  
-https://github.com/kirupakaranselvaraj/URL-shortener-Web
-
----
-
-## 🛍️ Hyper-Local E-Commerce Platform
-
-### 🌐 Web Development | Database
-
-A hyper-local e-commerce platform designed to connect
-customers with nearby local shops, farmers and vendors.
-
-### ✨ Features
-
-- 🛒 Product browsing
-- 🏪 Local shop management
-- 👨‍🌾 Farmer interaction
-- 👤 Customer management
-- 📦 Order management
-- 🚚 Delivery management
-- 💰 Expense management
-- 🗄️ Database-driven system
-
-🔗 **Repository:**  
-https://github.com/kirupakaranselvaraj/Hyper-Local-Ecommerce-Platform
-
----
-
-## 🌐 Personal Portfolio
-
-### HTML5 | CSS3 | JavaScript | GSAP | Three.js
-
-A personal portfolio website created to showcase my skills,
-projects, coding journey and developer profile.
-
-### ✨ Features
-
-- 🎨 Modern UI
-- ⚡ Smooth animations
-- 🌌 Interactive effects
-- 📱 Responsive design
-- 💼 Project showcase
-- 📄 Resume section
-- 🧑‍💻 Developer profile
-
-🌐 **Live Portfolio:**  
-https://kirupakaranportfolio.netlify.app/
-
-🔗 **Repository:**  
-https://github.com/kirupakaranselvaraj/Portfolio
+- 🚀 Participated in **Water Rocketry Competition** at Anna University – Regional Campus, Coimbatore.
+- 🌐 Attended **Django Framework Workshop** at Karpagam Institute of Technology.
+- 🔎 Built a **Wikipedia Clone using JavaScript** through an online project session.
+- 🤖 Attended seminars on **Deep Learning, SDLC and AI in Healthcare** at App Innovation Technology.
 
 ---
 
@@ -294,7 +337,7 @@ https://github.com/kirupakaranselvaraj/Portfolio
 ```text
 Frontend Development
         ↓
-JavaScript
+HTML + CSS + JavaScript
         ↓
 React.js
         ↓
@@ -302,6 +345,8 @@ Data Structures & Algorithms
         ↓
 Java
         ↓
-Backend Development
+Web Application Development
         ↓
-Machine Learning
+Digital Marketing & SEO
+        ↓
+Machine Learning Fundamentals
